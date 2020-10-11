@@ -11,12 +11,11 @@ def prompt_user
 end
 
 def selection(1)
-  if num = 1
     "YUM YUM MUNCH MUNCH MUNCH"
-  end
-  if num = 2
+end
+
+def selection(2)
     "HAM HAM HAM IN MY TUMMY"
-  end
 end
 
 def runner

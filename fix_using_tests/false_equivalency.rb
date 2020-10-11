@@ -12,9 +12,9 @@ end
 
 def selection(num)
   if selection(1)
-   "YUM YUM MUNCH MUNCH MUNCH"
+   puts "YUM YUM MUNCH MUNCH MUNCH"
   elsif selection(2)
-   "HAM HAM HAM IN MY TUMMY"
+   puts "HAM HAM HAM IN MY TUMMY"
   end
 end
 
